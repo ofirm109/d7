@@ -10224,23 +10224,23 @@ p.nominalBounds = new cjs.Rectangle(-95.1,-65.5,179.9,123.9);
 		function init(){
 			createjs.Sound.registerSound({
 				id: "1",
-				src: "../sounds/_1.mp3"
+				src: "/sounds/_1.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_1",
-				src: "../sounds/_1_1.mp3"
+				src: "/sounds/_1_1.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_2",
-				src: "../sounds/_1_2.mp3"
+				src: "/sounds/_1_2.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_3",
-				src: "../sounds/_1_3.mp3"
+				src: "/sounds/_1_3.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_4",
-				src: "../sounds/_1_4.mp3"
+				src: "/sounds/_1_4.mp3"
 			});
 			
 			
