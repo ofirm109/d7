@@ -10224,11 +10224,11 @@ p.nominalBounds = new cjs.Rectangle(-95.1,-65.5,179.9,123.9);
 		function init(){
 			createjs.Sound.registerSound({
 				id: "1",
-				src: "/sounds/1.mp3"
+				src: "d7/sounds/_1.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_1",
-				src: "/sounds/1.1.mp3"
+				src: "/sounds/_1_1.mp3"
 			});
 				createjs.Sound.registerSound({
 				id: "1_2",
@@ -10618,11 +10618,11 @@ lib.properties = {
 	opacity: 1.00,
 	manifest: [
 		{src:"images/dinonite_atlas_.png?1546332516507", id:"dinonite_atlas_"},
-		{src:"sounds/_1_1.mp3?1546332517438", id:"_1_1"},
-		{src:"sounds/_1_2.mp3?1546332517438", id:"_1_2"},
+		{src:"/sounds/_1.mp3/_1_1.mp3", id:"_1_1"},
+		{src:"/sounds/_1_2.mp3", id:"_1_2"},
 		{src:"sounds/_1_3.mp3?1546332517438", id:"_1_3"},
 		{src:"sounds/_1_4.mp3?1546332517438", id:"_1_4"},
-		{src:"sounds/_1.mp3?1546332517438", id:"_1"},
+		{src:"d7/sounds/_1.mp3?1546332517438", id:"_1"},
 		{src:"sounds/_2_1.mp3?1546332517438", id:"_2_1"},
 		{src:"sounds/_2_2.mp3?1546332517438", id:"_2_2"},
 		{src:"sounds/_2_3.mp3?1546332517438", id:"_2_3"},
